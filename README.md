@@ -4,7 +4,8 @@ ___Hello! My name is Jose. I'm an aspiring Fullstack Developer eager to grow and
 
 # Contact Details
 
-* ( www.linkedin.com/in/jose-avalos-thompson-6ba002127 )
+* ( www.linkedin.com/in/jose-avalos-thompson-6ba002127 ) 
+* ( www.joseavalos.dev)
 
 # Languages and Skills
 
