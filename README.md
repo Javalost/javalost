@@ -20,7 +20,7 @@ ___Hello! My name is Jose. I'm an experienced Fullstack Developer seeking to bui
 
 ### Red Sun Lease Management
 
-![Red Sun Lease Management Interface](./public/assets/redsun.PNG)
+![Red Sun Lease Management Interface](./assets/public/redsun.PNG)
 
 
 * Description: A modern lease management system featuring real-time version control, dynamic form generation, and a streamlined interface for managing property leases. Includes sample lease templates and interactive lease editing capabilities.  
@@ -30,7 +30,7 @@ ___Hello! My name is Jose. I'm an experienced Fullstack Developer seeking to bui
 
 ### Video Object Search
 
-![Video Object Search Interface](./public/assets/vid_search.png)
+![Video Object Search Interface](./assets/public/vid_search.png)
 
 * Description: Leverage AI to search for specific objects within video content. Upload a video, define your target object, and receive frame-by-frame results highlighting where the object appears.  
 * Tools: Next.js, TypeScript, Tailwind CSS, Framer Motion, FastAPI, Python, Google Cloud Storage, Gemini (Google AI), Firebase Auth, 
@@ -39,7 +39,7 @@ ___Hello! My name is Jose. I'm an experienced Fullstack Developer seeking to bui
 
 ### Survey Analytics Platform
 
-![Survey Analytics Platform Dashboard](./public/assets/quality_survey.png)
+![Survey Analytics Platform Dashboard](./assets/public/quality_survey.png)
 
 * Description: Graph-based knowledge management system inspired by Notion and Blocknote, specialized for survey data analysis. Features AI-powered insights, multiple classification methods, and interactive visualizations within a connected graph interface for more intuitive data relationships and comprehensive analysis.  
 * Tools: FastAPI, Python, PostgreSQL, Firebase, Firestore, Plotly, Gemini, SQLAlchemy, Pandas
