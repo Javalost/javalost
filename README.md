@@ -1,10 +1,10 @@
 # My Portfolio of Projects
 
-___Hello! My name is Jose. I'm an experienced Fullstack Developer seeking to build a useful, diverse portfolio.___
+___Hello! My name is Jose. I'm an aspiring Fullstack Developer eager to grow and build a diverse, meaningful portfolio through hands-on learning and experimentation.___
 
 # Contact Details
 
-* ( https://github.com/joseb2/ )
+* ( https://github.com/javalost/ )
 * ( www.linkedin.com/in/jose-avalos-thompson-6ba002127 )
 
 # Languages and Skills
