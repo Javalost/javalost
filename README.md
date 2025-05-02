@@ -19,7 +19,7 @@ ___Hello! My name is Jose. I'm an aspiring Fullstack Developer eager to grow and
 
 ---
 
-### Red Sun Lease Management
+### Lease Management 
 
 ![Red Sun Lease Management Interface](./assets/public/redsun.PNG)
 
