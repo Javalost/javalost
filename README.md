@@ -4,7 +4,6 @@ ___Hello! My name is Jose. I'm an aspiring Fullstack Developer eager to grow and
 
 # Contact Details
 
-* ( https://github.com/javalost/ )
 * ( www.linkedin.com/in/jose-avalos-thompson-6ba002127 )
 
 # Languages and Skills
